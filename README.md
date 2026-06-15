@@ -105,8 +105,8 @@ GIGACHAT_AUTH_KEY=...
 GIGACHAT_RQUID=...
 
 # Прокси для OpenAI (опционально)
-HTTP_PROXY=http://127.0.0.1:7891
-# HTTPS_PROXY=http://127.0.0.1:7891
+HTTP_PROXY=...
+
 ```
 
 > **Важно:** не публикуйте `.env` в репозиторий — в нём хранятся секретные ключи.
